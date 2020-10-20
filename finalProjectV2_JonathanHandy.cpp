@@ -1,9 +1,4 @@
-/*
- * finalProjectV2_JonathanHandy.cpp
- *
- *  Created on: Oct 18, 2020
- *      Author: 1573734_snhu
- */
+
 
 // README: Controls
 /*
